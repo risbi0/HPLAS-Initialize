@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "holodex.js": "^2.0.5"
+  }
+}
